@@ -64,7 +64,7 @@ const Numan = {
 
 ## 🔗 Let's Connect 
 <div id="badges" align="center">
-  <a href="mailto:ahtashamshani1@gmail.com" target="_blank">
+  <a href="mailto:numantariq435@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/numantariq-dev/" target="_blank">
