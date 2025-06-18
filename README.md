@@ -57,7 +57,7 @@ const Numan = {
 
 ## 🔥 GitHub Stats
 
-| <a href="https://portfolio-numantariq435s-projects.vercel.app&theme=dark&background=000000"><img align="center" src="https://portfolio-numantariq435s-projects.vercel.app&theme=dark&background=000000" alt="Numan's github stats" /></a> | <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Numan-Tariq&layout=compact&hide=scss&langs_count=8&theme=dark&background=000000"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Numan-Tariq&layout=compact&hide=scss&langs_count=8&theme=dark&background=000000" /></a> |
+| <a href="https://portfolio-numantariq435s-projects.vercel.app&theme=dark&background=000000"><img align="center" src="https://portfolio-numantariq435s-projects.vercel.app&theme=dark&background=000000" alt="Numan's github stats" /></a> | <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=numan-tariq&layout=compact&hide=scss&langs_count=8&theme=dark&background=000000"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=numan-tariq&layout=compact&hide=scss&langs_count=8&theme=dark&background=000000" /></a> |
 | ------------- | ------------- |
 
 <br/>
